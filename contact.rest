@@ -1,0 +1,9 @@
+POST https://api.ayawma.com/support
+content-type: application/json
+
+{
+    "name": "Jorge",
+    "email": "jorgetomasdavalillo@gmail.com",
+    "subject": "test1", 
+    "message": "test asdoijasodijasoidjasodjas"
+}
